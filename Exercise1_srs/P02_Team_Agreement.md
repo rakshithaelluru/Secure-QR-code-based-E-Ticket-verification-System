@@ -1,4 +1,4 @@
-#Team Agreement
+# Team Agreement
 
 -	The team agrees to follow discipline.
 -	Attend meetings regularly. 
